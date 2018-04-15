@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneStore.Domain", "StoneStore.Domain\StoneStore.Domain.csproj", "{16A22CBE-100B-42BD-99D3-38D75707C24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneStore.WebUI", "StoneStore.WebUI\StoneStore.WebUI.csproj", "{09EDEC9D-6CA9-4C45-AD42-EE02C4B209EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A22CBE-100B-42BD-99D3-38D75707C24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A22CBE-100B-42BD-99D3-38D75707C24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A22CBE-100B-42BD-99D3-38D75707C24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A22CBE-100B-42BD-99D3-38D75707C24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EDEC9D-6CA9-4C45-AD42-EE02C4B209EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EDEC9D-6CA9-4C45-AD42-EE02C4B209EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EDEC9D-6CA9-4C45-AD42-EE02C4B209EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EDEC9D-6CA9-4C45-AD42-EE02C4B209EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A06688C-D34A-4746-B226-8C1AACFE4D57}
+	EndGlobalSection
+EndGlobal
