@@ -1,0 +1,82 @@
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.WebUI.dll.config
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.WebUI.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.WebUI.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\EntityFramework.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Moq.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.Domain.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\WebActivator.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.Domain.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.Domain.dll.config
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\EntityFramework.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Moq.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\obj\Debug\StoneStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\obj\Debug\StoneStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\obj\Debug\StoneStore.WebUI.dll
+C:\Users\eritral\Documents\Visual Studio 2017\Projects\StoneStore\StoneStore.WebUI\obj\Debug\StoneStore.WebUI.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.WebUI.dll.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.WebUI.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.WebUI.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\EntityFramework.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Moq.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.Domain.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\WebActivator.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.Domain.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\StoneStore.Domain.dll.config
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\EntityFramework.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Moq.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\obj\Debug\StoneStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\obj\Debug\StoneStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\obj\Debug\StoneStore.WebUI.dll
+C:\Users\eritral\Desktop\1.5 Years\Projects\StoneStore\StoneStore.WebUI\obj\Debug\StoneStore.WebUI.pdb
