@@ -1,0 +1,42 @@
+﻿@model StoneStore.Domain.Entities.Product
+
+<style>
+    body, .row {
+        background-color: silver;
+    }
+</style>
+
+<div class="col-sm-5" style="align-content:center;">
+    <div class="row" style="margin:4px 4px 4px 4px">
+        @if (Model.ImageData != null)
+        {
+            <div class="pull-left" style="margin-right: 10px">
+                <img class="img-thumbnail" width="75" height="75" src="@Url.Action("GetImage", "Product", new {Model.ProductID})" />
+            </div>
+        }
+        <h3>
+            <strong>@Model.Name</strong>   
+            By<strong>&nbsp;@Model.Company</strong>
+        </h3>
+        <h5>
+            Type:<b>&nbsp;@Model.category</b>
+        </h5>
+        <h6>           
+            <span class="lead text-center">@Model.Description</span>
+        </h6>
+        
+        <span class="text-center label label-primary">
+            @Model.Price.ToString("c")/per tile
+        </span>
+        @using (Html.BeginForm("AddToCart", "Cart"))
+        {
+            <div class="center-block">
+                @Html.HiddenFor(x => x.ProductID)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+
+                <input type="submit" class="btn btn-success" value="Add to cart" />
+            </div>
+        }
+        
+    </div>
+</div>
